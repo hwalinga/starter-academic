@@ -18,11 +18,12 @@ bio: Interested in working with genetic information
 # Interests to show in About widget
 interests:
 - Genetic Information
+- Data Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: Msc Computer Science / Bioinformatics specialization
+  - course: Msc Computer Science (Bioinformatics specialization)
     institution: TU Delft
     year: future
   - course: BSc Nanobiology (combined Biology and Physics programme)
@@ -70,4 +71,4 @@ highlight_name: false
 
 As a bioinformatician I try to understand the chaotic and unstructured nature of life with something we have much more control over: computers. With a formal education in both Biology and Computer Science I can make the bridge between those fields. I have good understanding of mathematics, computer science, statistics and cellular biology and mostly interested in genetics, the code of life.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/Hielke_Walinga_CV.pdf" "newtab" >}}CV{{< /staticref >}}
