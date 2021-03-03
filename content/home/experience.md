@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 40
+active: false  # Activate this widget? true/false
 
 title: Experience
 subtitle:
@@ -30,11 +31,11 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
+
   - title: Professor
     company: University X
     company_url: ''
